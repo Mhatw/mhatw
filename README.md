@@ -6,8 +6,8 @@
       ### Disrupter.
 
 ## Dev skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git)](https://skillicons.dev)
-<img src="./assets/bulma.png" style="width:70px"></img>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git)](https://skillicons.dev)  
+<img src="./assets/bulma.png" style="width:47px"></img>
 ## Design skills
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
 ## Soft skills
@@ -98,4 +98,5 @@
  </a>
 </p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mhatw/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mhatw/)   
+### Mail >>> contactomhatw@gmail.com
