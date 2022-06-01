@@ -7,7 +7,7 @@
 
 ## Dev skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git)](https://skillicons.dev)
-<img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/28091/preview_image/pre.png" style="width:70px"></img>
+<img src="./assets/bulma.png" style="width:70px"></img>
 ## Design skills
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
 ## Soft skills
