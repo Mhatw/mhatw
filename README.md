@@ -1,5 +1,5 @@
  ### Hi there 👋     
-      I’m Cristian, FullStack developer and designer looking for new adventures
+      I’m Cristian, a FullStack developer, and designer looking for new adventures
         
       ### FullStack Dev.
       ### Designer.
