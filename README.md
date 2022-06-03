@@ -26,7 +26,7 @@
 <div align="center">
 <a href="https://github.com/mhatw/contacts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=contacts" />
-</a>|
+</a>
 <a href="https://github.com/mhatw/todoList-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=todoList-js" />
 </a>
@@ -37,7 +37,7 @@
 <div align="center">
 <a href="https://github.com/mhatw/codeEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=codeEditor" />
-</a>|
+</a>
   <a href="https://github.com/mhatw/contacts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=contacts" />
 </a>
@@ -49,7 +49,7 @@
 <div align="center">
 <a href="https://github.com/mhatw/CLIvia-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=CLIvia-generator" />
-</a>|
+</a>
 <a href="https://github.com/mhatw/Expensable-CLI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=Expensable-CLI" />
 </a>
@@ -60,7 +60,7 @@
 <div align="center">
 <a href="https://github.com/mhatw/CLIn-Boards">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=CLIn-Boards" />
-</a>|
+</a>
   <a href="https://github.com/mhatw/Pokemon-Ruby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=Pokemon-Ruby" />
 </a>
