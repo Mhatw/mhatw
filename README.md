@@ -6,7 +6,7 @@
       ### Disrupter.
 
 ## Dev skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git,github,linux,bash)](https://skillicons.dev)  
 <img src="./assets/bulma.png" style="width:47px"></img>
 ## Design skills
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
