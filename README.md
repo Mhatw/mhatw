@@ -24,23 +24,25 @@
 ## Some projects
 ### Javascript
 <div align="center">
-<a href="https://github.com/mhatw/contacts">
+<a href="https://github.com/mhatw/organizable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=organizable" />
+</a>
+ <a href="https://github.com/mhatw/contacts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=contacts" />
 </a>
-<a href="https://github.com/mhatw/todoList-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=todoList-js" />
-</a>
+
 </div>
 
 <br>
 
 <div align="center">
+ <a href="https://github.com/mhatw/todoList-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=todoList-js" />
+</a>
 <a href="https://github.com/mhatw/codeEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=codeEditor" />
 </a>
-  <a href="https://github.com/mhatw/contacts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=contacts" />
-</a>
+
 </div>
 
 ---
