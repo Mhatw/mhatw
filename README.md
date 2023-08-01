@@ -1,4 +1,4 @@
- ### Hi there 👋     
+### Hi there 👋     
       FullStack developer, and designer looking for new adventures
         
       ### FullStack Dev.
@@ -6,7 +6,15 @@
       ### Disrupter.
 
 ## Dev skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ruby,rails,vite,postgres,git,github,linux,bash)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,vite,firebase)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash)](https://skillicons.dev)  
 <img src="./assets/bulma.png" style="width:47px"></img>
 ## Design skills
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
@@ -91,14 +99,5 @@
 </a> -->
 </div>
 
-### Contact me
-<!-- <p align="center">
- <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- </a>
-</p> -->
-
+### Contact me >>> contactomhatw@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mhatw/)   
-### Mail >>> contactomhatw@gmail.com
